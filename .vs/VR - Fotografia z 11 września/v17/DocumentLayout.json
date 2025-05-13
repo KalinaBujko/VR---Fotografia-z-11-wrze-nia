@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\VR - Fotografia z 11 wrze\u015Bnia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E4376D-AC20-F10C-11F8-6FE202D169B9}|Assembly-CSharp.csproj|d:\\unity\\vr - fotografia z 11 wrze\u015Bnia\\assets\\pixel horror abandoned rural  train station\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9E4376D-AC20-F10C-11F8-6FE202D169B9}|Assembly-CSharp.csproj|solutionrelative:assets\\pixel horror abandoned rural  train station\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "read me.txt",
+              "DocumentMoniker": "D:\\Unity\\VR - Fotografia z 11 wrze\u015Bnia\\Assets\\pixel horror abandoned rural  train station\\read me.txt",
+              "RelativeDocumentMoniker": "Assets\\pixel horror abandoned rural  train station\\read me.txt",
+              "ToolTip": "D:\\Unity\\VR - Fotografia z 11 wrze\u015Bnia\\Assets\\pixel horror abandoned rural  train station\\read me.txt",
+              "RelativeToolTip": "Assets\\pixel horror abandoned rural  train station\\read me.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-13T12:17:26.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
