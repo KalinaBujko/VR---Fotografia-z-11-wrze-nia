@@ -1,0 +1,10 @@
+# ninja log v5
+480	3561	7700661737063335	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4bffaf182ff5dc2b
+461	3579	7700661737155755	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	db24d2e6a877a2b6
+433	3583	7700661737321946	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3e3137f3118b36ca
+500	3585	7700661737374512	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7fbc1c38d80a3a35
+0	3663	7700661738312521	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	237c638ace7ee85b
+471	3955	7700661741206033	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	93a65c463dbe70a7
+490	3993	7700661741632218	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ed580d50f0869424
+425	4118	7700661742865849	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	16fa56fa7fa46dae
+4123	4926	7700661751044439	D:/projekty/VR---Fotografia-z-11-wrze-nia/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/324x403f/obj/arm64-v8a/libgame.so	bc303ea37313a6c3
