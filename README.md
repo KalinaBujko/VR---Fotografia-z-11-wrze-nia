@@ -1,4 +1,4 @@
-# 📸 VR – Fotografia z 11 września
+# VR – Fotografia z 11 września
 
 To repozytorium zawiera projekt VR stworzony przez czteroosobowy zespół studentów w Unreal Engine 5. Projekt to immersyjna opowieść inspirowana wydarzeniami z 11 września, ukazana przez pryzmat fotografii i interakcji przestrzennych.
 
