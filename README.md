@@ -1,6 +1,6 @@
 # VR – Fotografia z 11 września
 
-To repozytorium zawiera projekt VR stworzony przez czteroosobowy zespół studentów w Unreal Engine 5. Projekt to immersyjna opowieść inspirowana wydarzeniami z 11 września, ukazana przez pryzmat fotografii i interakcji przestrzennych.
+To repozytorium zawiera projekt VR stworzony przez czteroosobowy zespół studentów w Unity Engine. Projekt to immersyjna opowieść inspirowana wydarzeniami z 11 września, ukazana przez pryzmat fotografii i interakcji przestrzennych.
 
 ##  Opis projektu
 
@@ -11,7 +11,7 @@ Gracz zanurza się w artystyczną, emocjonalną przestrzeń VR, eksplorując wag
 W czteroosobowym zespole byłam odpowiedzialna za:
 
 - **Stworzenie całej mapy gry** — kompozycja przestrzeni, lighting i rozmieszczenie elementów
-- **Obsługę VR** — konfiguracja środowiska pod headsety VR, interakcje
+- **Obsługę VR** — konfiguracja środowiska pod headsety VR
 - **Post-processing i efekty specjalne** — koloryzacja, depth of field, światło volumetryczne, FX dla immersji
 
 
