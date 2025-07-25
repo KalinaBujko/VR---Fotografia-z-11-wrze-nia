@@ -1,17 +1,31 @@
-# VR – Fotografia z 11 września
+# VR Narrative Experience – "Photograph from September 11"
+This project is a VR storytelling experience created in Unity by a 4-person student team. Inspired by Wisława Szymborska’s poem “Photograph from September 11,” it invites players to reflect on tragedy through space, light, and silence — without a single spoken word.
 
-To repozytorium zawiera projekt VR stworzony przez czteroosobowy zespół studentów w Unity Engine. Projekt to immersyjna opowieść inspirowana wydarzeniami z 11 września, ukazana przez pryzmat fotografii i interakcji przestrzennych.
+## Narrative Vision
+The experience places players in a slow, atmospheric exploration of suspended moments. Each scene is built to evoke reflection, vulnerability, and quiet awe — an artistic take on environmental storytelling without dialogue.
 
-##  Opis projektu
+## My Role: Narrative Environment Designer
+In a team of four, I was responsible for:
 
-Gracz zanurza się w artystyczną, emocjonalną przestrzeń VR, eksplorując wagony, dźwięki i światło. Celem było stworzenie kontemplacyjnego doświadczenia, które poprzez interakcję i estetykę przekazuje nastrój i opowiada historię bez słów.
+Designing the entire playable space — level layout, spatial composition, emotional pacing
 
-##  Moja rola
+Lighting & mood direction — volumetric light, color grading, fog, and contrast to shape tone
 
-W czteroosobowym zespole byłam odpowiedzialna za:
+Post-processing & visual effects — subtle motion, particles, and DOF for immersion
 
-- **Stworzenie całej mapy gry** — kompozycja przestrzeni, lighting i rozmieszczenie elementów
-- **Obsługę VR** — konfiguracja środowiska pod headsety VR
-- **Post-processing i efekty specjalne** — koloryzacja, depth of field, światło volumetryczne, FX dla immersji
+VR configuration — setup and optimization for headset support
+
+Narrative shaping — interpreting the poem’s emotional cadence into visual storytelling
+
+## Tools & Tech
+Unity Engine
+
+SteamVR Toolkit
+
+Shader Graph & Post-Processing Stack
+
+VR headset setup (Oculus/HTC)
+
+The goal was to create a poetic, emotionally powerful experience where space tells the story.
 
 
